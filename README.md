@@ -4,6 +4,8 @@ This is the tnesorflow implementation of the famous paper, "A Simple Framework f
 ## link
 1. https://medium.com/@nainaakash012/simclr-contrastive-learning-of-visual-representations-52ecf1ac11fa
 2. https://towardsdatascience.com/understanding-contrastive-learning-d5b19fd96607
+3. https://www.quora.com/What-is-the-temperature-parameter-in-deep-learning
+4. https://medium.com/@majid.ghafouri/why-should-we-use-temperature-in-softmax-3709f4e0161
 
 ## Key Takeways
 1. SimCLR learns representationsby maximizing agreement between differently augmentedviews of the same data example via a contrastive loss inthe latent space.
