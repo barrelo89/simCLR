@@ -1,6 +1,10 @@
 # simCLR
 This is the tnesorflow implementation of the famous paper, "A Simple Framework for Contrastive Learning of Visual Representations", published in ICML'20 [link](https://arxiv.org/pdf/2002.05709.pdf).
 
+## link
+1. https://medium.com/@nainaakash012/simclr-contrastive-learning-of-visual-representations-52ecf1ac11fa
+2. https://towardsdatascience.com/understanding-contrastive-learning-d5b19fd96607
+
 ## Key Takeways
 1. SimCLR learns representationsby maximizing agreement between differently augmentedviews of the same data example via a contrastive loss inthe latent space.
 
